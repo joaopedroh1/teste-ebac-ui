@@ -1,0 +1,20 @@
+[
+    {
+        "nomeproduto": "Augusta Pullover Jacket",
+        "tamanho": "XS",
+        "cor": "Red",
+        "quantidade": 5
+    },
+    {
+        "nomeproduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "S",
+        "cor": "Purple",
+        "quantidade": 3
+    },
+    {
+        "nomeproduto": "Caesar Warm-Up Pant",
+        "tamanho": "34",
+        "cor": "Gray",
+        "quantidade": 10
+    }
+]
