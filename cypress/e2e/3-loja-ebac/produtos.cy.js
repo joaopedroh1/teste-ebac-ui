@@ -32,16 +32,14 @@ describe('funcionalidade: produtos', () => {
     });
 
     it.only('Deve adicionar produto ao carrinho buscando da massa de dados' , () => {
-        cy.fixture('produtos ').then(dados => {
+        cy.fixture('produtos').then(dados => {
             produtosPage.buscarProduto(dados[1].nomeProduto)
             produtosPage.addProdutoCarrinho(
                 dados[1].tamanho,
                 dados[1].cor,
                 dados[1].quantidade)
 
-            cy.get('.woocommerce-message').should('contain', dados[1].nomeProduto)
-            
+                cy.get('.woocommerce-message').should('contain', dados[1].nomeProduto)
         })
     });
-
 });

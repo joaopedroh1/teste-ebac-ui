@@ -1,20 +1,22 @@
 [
     {
-        "nomeproduto": "Augusta Pullover Jacket",
+        "nomeProduto": "Abominable Hoodie",
         "tamanho": "XS",
-        "cor": "Red",
-        "quantidade": 5
-    },
-    {
-        "nomeproduto": "Ariel Roll Sleeve Sweatshirt",
-        "tamanho": "S",
-        "cor": "Purple",
+        "cor": "Blue",
         "quantidade": 3
     },
+
     {
-        "nomeproduto": "Caesar Warm-Up Pant",
+        "nomeProduto": "Chaz Kangeroo Hoodie",
+        "tamanho": "L",
+        "cor": "Orange",
+        "quantidade": 5
+    },
+
+    {
+        "nomeProduto": "Geo Insulated Jogging Pant",
         "tamanho": "34",
-        "cor": "Gray",
+        "cor": "Green",
         "quantidade": 10
     }
 ]
